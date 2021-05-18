@@ -1,13 +1,14 @@
-import SearchBar from '../SearchBar/SearchBar'
 import './Navbar.css'
+import SearchBar from '../SearchBar/SearchBar'
+import NavigationIcons from '../NavigationIcons/NavigationIcons'
 
 const Navbar = () => {
   return (
     <div className='navbar'>
       <div className='navbar-container'>
-        <div className='navabr-logo'>logo</div>
+        <div className='navbar-logo'>logo</div>
         <SearchBar />
-        <div className='navbar-icons'>icons</div>
+        <NavigationIcons />
       </div>
     </div>
   )

@@ -1,5 +1,11 @@
+import PageContainer from '../components/PageContainer/PageContainer'
+
 const Inbox = () => {
-  return <div>Inbox</div>
+  return (
+    <PageContainer>
+      <div>Inbox</div>
+    </PageContainer>
+  )
 }
 
 export default Inbox

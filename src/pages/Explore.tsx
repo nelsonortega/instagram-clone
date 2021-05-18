@@ -1,5 +1,11 @@
+import PageContainer from '../components/PageContainer/PageContainer'
+
 const Explore = () => {
-  return <div>Explore</div>
+  return (
+    <PageContainer>
+      <div>Explore</div>
+    </PageContainer>
+  )
 }
 
 export default Explore
