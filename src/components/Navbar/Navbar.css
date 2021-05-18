@@ -1,0 +1,15 @@
+.navbar {
+  height: 4vh;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  justify-content: center;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid lightgray;
+}
+
+.navbar-container {
+  width: 940px;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.search-bar-input {
+  outline: 0;
+  width: 210px;
+  height: 22px;
+  text-align:center;
+  border-radius: 3px;
+  border: solid 1px #dbdbdb;
+  background-color: #FAFAFA;
+}
