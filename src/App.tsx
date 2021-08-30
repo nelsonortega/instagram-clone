@@ -1,6 +1,6 @@
-import Home from './pages/Home'
 import Inbox from './pages/Inbox'
 import SignIn from './pages/SignIn'
+import Home from './pages/Home/Home'
 import Profile from './pages/Profile'
 import Explore from './pages/Explore'
 import Settings from './pages/Settings'

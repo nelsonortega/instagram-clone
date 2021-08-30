@@ -1,0 +1,6 @@
+.stories-container {
+  height: 90px;
+  border-radius: 2px;
+  background-color: white;
+  border: 1px solid lightgray;
+}

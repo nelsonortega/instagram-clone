@@ -1,0 +1,8 @@
+.home-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.stories-posts-container {
+  width: 610px;
+}
